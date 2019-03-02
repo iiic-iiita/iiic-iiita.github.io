@@ -1,2 +1,2 @@
-# iiic-iiita.github.io
-The official website of ESUMMIT 
+# E-SUMMIT
+The Official website of E-SUMMIT Event of IIIC
