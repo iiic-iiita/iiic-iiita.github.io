@@ -947,7 +947,8 @@ background: linear-gradient(to left, #000000, #be1754);
 }
 
 .text-group .text-group__ft {
-    margin-top: 20px
+    margin-top: 20px;
+    margin-left:20px;
 }
 
 .text-group-short>* {
